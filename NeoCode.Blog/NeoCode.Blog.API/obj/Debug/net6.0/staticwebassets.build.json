@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rcX9MPL6LXBTpjK7nBCNF+jj1CZsrlrDDXl8whN8n8o=",
+  "Source": "NeoCode.Blog.API",
+  "BasePath": "_content/NeoCode.Blog.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

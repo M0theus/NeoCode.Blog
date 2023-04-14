@@ -31,7 +31,7 @@ public class PostService : IPostService
         
         
         var memoryStream = new MemoryStream();
-        await postDto.Imagem.CopyToAsync(memoryStream);
+        await postDto.Foto.CopyToAsync(memoryStream);
 
         if (memoryStream.Length < 2097152)
         {

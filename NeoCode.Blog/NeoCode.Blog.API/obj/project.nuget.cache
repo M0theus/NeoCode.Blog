@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d4ZRAgQeeFeOugV8RPyOkeXNXivMYyWH6+VLKBQrKbQFkttLr3eM2oPPPXWNRjN1tB1d7KA/QtQotseBYCYeBA==",
+  "dgSpecHash": "qC8RpYJnp2gOZe9h2LOPfT3JxFYz0FE47HpxuRsXzPEEZ4+RuKNwoZjciTE4oDfcSlGKSQkT1OlmvaW1orbbNw==",
   "success": true,
-  "projectFilePath": "/home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog.API/NeoCode.Blog.API.csproj",
+  "projectFilePath": "/home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog/NeoCode.Blog.API/NeoCode.Blog.API.csproj",
   "expectedPackageFiles": [
     "/home/matheus/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/matheus/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",

@@ -10,3 +10,15 @@
 /home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog.Core/obj/Debug/net6.0/refint/NeoCode.Blog.Core.dll
 /home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog.Core/obj/Debug/net6.0/NeoCode.Blog.Core.pdb
 /home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog.Core/obj/Debug/net6.0/ref/NeoCode.Blog.Core.dll
+/home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog/NeoCode.Blog.Core/bin/Debug/net6.0/NeoCode.Blog.Core.deps.json
+/home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog/NeoCode.Blog.Core/bin/Debug/net6.0/NeoCode.Blog.Core.dll
+/home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog/NeoCode.Blog.Core/bin/Debug/net6.0/ref/NeoCode.Blog.Core.dll
+/home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog/NeoCode.Blog.Core/bin/Debug/net6.0/NeoCode.Blog.Core.pdb
+/home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog/NeoCode.Blog.Core/obj/Debug/net6.0/NeoCode.Blog.Core.csproj.AssemblyReference.cache
+/home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog/NeoCode.Blog.Core/obj/Debug/net6.0/NeoCode.Blog.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog/NeoCode.Blog.Core/obj/Debug/net6.0/NeoCode.Blog.Core.AssemblyInfoInputs.cache
+/home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog/NeoCode.Blog.Core/obj/Debug/net6.0/NeoCode.Blog.Core.AssemblyInfo.cs
+/home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog/NeoCode.Blog.Core/obj/Debug/net6.0/NeoCode.Blog.Core.csproj.CoreCompileInputs.cache
+/home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog/NeoCode.Blog.Core/obj/Debug/net6.0/NeoCode.Blog.Core.dll
+/home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog/NeoCode.Blog.Core/obj/Debug/net6.0/ref/NeoCode.Blog.Core.dll
+/home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog/NeoCode.Blog.Core/obj/Debug/net6.0/NeoCode.Blog.Core.pdb

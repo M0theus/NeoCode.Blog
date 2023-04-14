@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IjNy4ppTRgCJdJ6GD42BmMI7Z9Qu0NCt27EMrId1yvHB43Go8dl8zzfQ9sBsBfmNqTt+8GoFfpjmswJQMq4PbQ==",
+  "dgSpecHash": "5JQ6BTXgyM/liQDbxX4angU0L4SdDshYr8tcYeY289HNahd200M3XZnRpCvf0+rLCjiJ9W10guEWYLiJTtew7Q==",
   "success": true,
-  "projectFilePath": "/home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog.Core/NeoCode.Blog.Core.csproj",
+  "projectFilePath": "/home/matheus/dev/NeoCode/NeoCode.Blog/NeoCode.Blog/NeoCode.Blog.Core/NeoCode.Blog.Core.csproj",
   "expectedPackageFiles": [
     "/home/matheus/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/matheus/.nuget/packages/libsodium/1.0.18/libsodium.1.0.18.nupkg.sha512",

@@ -33,7 +33,7 @@ public class PostController : ControllerBase
 
             return Ok(new ResultViewModel
             {
-                Message = "Usuário criado com sucesso",
+                Message = "Post criado com sucesso",
                 Success = true,
                 Data = post
 

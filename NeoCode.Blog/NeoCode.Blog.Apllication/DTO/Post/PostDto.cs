@@ -7,7 +7,7 @@ public class PostDto
     public int Id { get; set; }
     public string Titulo { get; set; } = null!;
     public string Descricao { get; set; } = null!;
-    public IFormFile Imagem { get; set; } = null!;
+    public IFormFile Foto { get; set; } = null!;
     public int AdministradorId { get; set; }
 
     public PostDto()
@@ -20,7 +20,7 @@ public class PostDto
         Id = id;
         Titulo = titulo;
         Descricao = descricao;
-        Imagem = imagem;
+        Foto = imagem;
         AdministradorId = administradorId;
     }
 }
